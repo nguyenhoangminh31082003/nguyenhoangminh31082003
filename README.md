@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there. I'm Nguyễn Hoàng Minh
+
+I'm currently a 2nd-year student, majoring in Computer Science.
 
 <!--
 **nguyenhoangminh31082003/nguyenhoangminh31082003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
