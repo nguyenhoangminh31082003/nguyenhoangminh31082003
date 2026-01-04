@@ -1,6 +1,8 @@
-### Hi there. I'm Nguyễn Hoàng Minh
+### Hi there! I'm Nguyễn Hoàng Minh 👋
 
-I'm currently a final-year student, majoring in Computer Science.
+- 📚 I'm a Computer Science graduate currently working as a Software Engineer.
+
+Nice to meet you!
 
 <!--
 **nguyenhoangminh31082003/nguyenhoangminh31082003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
